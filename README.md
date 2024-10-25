@@ -1,1 +1,1 @@
-# Img-Rec-OpenCV
+# ImageRecognition-DNN
